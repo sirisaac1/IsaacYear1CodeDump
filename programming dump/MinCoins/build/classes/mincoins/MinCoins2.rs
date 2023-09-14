@@ -1,0 +1,1 @@
+mincoins.MinCoins
